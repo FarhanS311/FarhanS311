@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FarhanS311
-- 👀 I’m interested in learning programming and using it for solving problems.
+- 👋 Hi, I’m Farhan.
+- 👀 I’m passionate about coding.
 - 🌱 I’m currently learning JAVA and Full-Stack(MERN) Web Development.
 - Skills
   - Java
